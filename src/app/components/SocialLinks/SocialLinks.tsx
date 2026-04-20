@@ -15,7 +15,7 @@ import Image from "next/image";
 export default function SocialLinks() {
   const links = [
     { name: "LinkedIn", icon: <FaLinkedinIn />, url: "#" },
-    { name: "Twitter", icon: <FaTwitter />, url: "https://x.com/rowaelqema" },
+    { name: "Twitter (X)", icon: <FaTwitter />, url: "https://x.com/rowaelqema" },
     {
       name: "Facebook",
       icon: <FaFacebookF />,
